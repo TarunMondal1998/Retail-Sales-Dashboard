@@ -6,9 +6,12 @@
 2. Excel
 
 ## Objectives:
-
+The purpose of the dashboard is to evaluate the sales and profitability of the retail company across different product categories and regions over the years (2020-2023).
 ## KPIs:
-
+1. Sales
+2. Profitability
+3. Revenue
+4. Quantity sold
 ## Data Model:
 
 ![Data Model](https://github.com/user-attachments/assets/f2fa3936-8c59-4f8a-a2eb-2fa8ce7ff29f)
